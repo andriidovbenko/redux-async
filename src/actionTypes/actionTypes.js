@@ -1,0 +1,5 @@
+export const SET_MESSAGE = 'SET_MESSAGE';
+
+export const GET_JOKES_FETCH = 'GET_JOKES_FETCH';
+export const GET_JOKES_SUCCESS = 'GET_JOKES_SUCCESS'
+export const GET_JOKES_FAILURE = 'GET_JOKES_FAILURE'
